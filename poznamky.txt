@@ -1,0 +1,4 @@
+# Ukol - opakování input
+1. Nechte si od uživatele zadat město, ve kterém bydlí.
+2. Uložte ho do proměnné city. Vypište do terminálu větu "Bydlím ve městě..." Místo teček vložte obsah proměnné city.
+
